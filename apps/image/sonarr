@@ -2,3 +2,4 @@ linuxserver/sonarr:latest
 linuxserver/sonarr:develop
 linuxserver/sonarr:3.0.9.1549-ls172
 aront/sonarr
+ghcr.io/linuxserver/sonarr:latest
